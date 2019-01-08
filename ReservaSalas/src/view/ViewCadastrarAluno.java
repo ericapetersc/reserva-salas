@@ -82,7 +82,7 @@ public class ViewCadastrarAluno extends javax.swing.JFrame {
     }
     
     public void AvisoCampos(){
-        //JOptionPane.showMessageDialog(null, "Preencha os campos corretamente!");
+        JOptionPane.showMessageDialog(null, "Preencha os campos corretamente!");
     }
     
     public void AvisoCurso(){
@@ -96,7 +96,7 @@ public class ViewCadastrarAluno extends javax.swing.JFrame {
     }
     
     public void AvisoErroNoCadastro(){
-        //JOptionPane.showMessageDialog(null, "Houve um erro. Não foi possível realizar o cadastro.");
+        JOptionPane.showMessageDialog(null, "Houve um erro. Não foi possível realizar o cadastro.");
     }
     
     public void LimparTela(){

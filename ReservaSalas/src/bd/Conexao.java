@@ -13,7 +13,7 @@ public class Conexao {
     public static void connect() {
         String driver = "org.postgresql.Driver";
         String user = "postgres";
-        String senha = "12345";
+        String senha = "senha";
         String url = "jdbc:postgresql://localhost:5432/reservasalas";
         try {
             Class.forName(driver);          

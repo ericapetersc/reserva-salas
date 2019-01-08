@@ -6,11 +6,12 @@
             <file>file:/C:/Users/Ediana/Desktop/ReservaSalas/src/aparencia/Main.java</file>
         </group>
         <group>
-            <file>file:/C:/Users/Eduardo/Downloads/Versão8/reserva-salas/reserva-salas/ReservaSalas/tests/controller/ReservaControllerTest.java</file>
-            <file>file:/C:/Users/Eduardo/Downloads/Versão8/reserva-salas/reserva-salas/ReservaSalas/tests/controller/AlunoControllerTest.java</file>
-            <file>file:/C:/Users/Eduardo/Downloads/Versão8/reserva-salas/reserva-salas/ReservaSalas/tests/controller/ServidorControllerTest.java</file>
-            <file>file:/C:/Users/Eduardo/Downloads/Versão8/reserva-salas/reserva-salas/ReservaSalas/src/view/ViewFazerReserva.java</file>
-            <file>file:/C:/Users/Eduardo/Downloads/Versão8/reserva-salas/reserva-salas/ReservaSalas/src/view/ViewExcluirReserva.java</file>
+            <file>file:/home/ericapetersc/Projects/reserva-salas/ReservaSalas/src/view/ViewCadastrarAluno.java</file>
+            <file>file:/home/ericapetersc/Projects/reserva-salas/ReservaSalas/tests/controller/AlunoControllerTest.java</file>
+            <file>file:/home/ericapetersc/Projects/reserva-salas/ReservaSalas/src/controller/AlunoController.java</file>
+            <file>file:/home/ericapetersc/Projects/reserva-salas/ReservaSalas/tests/controller/ServidorControllerTest.java</file>
+            <file>file:/home/ericapetersc/Projects/reserva-salas/ReservaSalas/src/model/AlunoModel.java</file>
+            <file>file:/home/ericapetersc/Projects/reserva-salas/ReservaSalas/tests/controller/ReservaControllerTest.java</file>
         </group>
     </open-files>
 </project-private>
